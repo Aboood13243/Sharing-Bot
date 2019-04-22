@@ -17,11 +17,7 @@ console.log("Welcome Again !");
 •اي مشكله توآجهك ولا يهمك. عندك الاداره تفضل ونحل مشكلتك مع آي شخص بالسيرفر.:telephone_receiver:
 •عندك فكره موضوع تفضل شآركنا فيه:jack_o_lantern::gift:
 •واخيرا حييييياكم واكيد وجودكم هو اللي بيدعمنا وراح نكون الافضل.
-وصوت للرقم 4 حتى نسةي قعاليات و اشياء مراا راح تجب الناس اتمنى تدخل و تقرا القوانين جيدا
-شرفنا يا عسل:wink: :kissing_heart:
-
-https://discord.gg/AZ3sbZ
-joined info-selfie
+https://discord.gg/M85CXdt
 ! Selfie.                              
 الدعووة خاصة لك ي قلبي ... [ ${member}  ]
 **`)
